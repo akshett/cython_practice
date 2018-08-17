@@ -5,7 +5,9 @@ The aim of this code is to compare performance of pure python implementation wit
 I have implemented a simple function that uses a large loop using three methods
 
 Pure python
+
 Basic cython
+
 Cython with cdef types
 
 The basic cython implementation provides a time boost of about 50%.
