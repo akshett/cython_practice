@@ -10,6 +10,6 @@ Cython with cdef types
 
 The basic cython implementation provides a time boost of about 50%.
 
-However when you introduce cdef type in the cython code, the performance increases significantly by several hundred times for this simple.
+However when you introduce cdef type in the cython code, the performance increases significantly by several hundred times for this simple change.
 
 Behold the power of C! 
