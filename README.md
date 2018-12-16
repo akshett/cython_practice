@@ -12,4 +12,6 @@ The basic cython implementation provides a time boost of about 50%.
 
 However when you introduce cdef type in the cython code, the performance increases significantly by several hundred times for this simple change.
 
+cdef types in cython specifies appropriate data type from C which increases the computation speed significantly. The keyword cdef is used to indicate C data type.
+
 Behold the power of C! 
